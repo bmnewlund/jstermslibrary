@@ -10,3 +10,8 @@ console.log(i);
 		console.log(arraigh[2]);
 })()
 console.log(i);
+
+// The IIFE is a function that is immedately invoked and does not have to be named.
+// It also is not hoistable in that it is contianed within the function that it is called in. 
+
+
